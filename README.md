@@ -1,3 +1,5 @@
+*Full Excel file attached in repository*
+
 ## Data Source
 
 This project utilizes data from the U.S. Department of Health and Human Services (accessed through data.gov). 
